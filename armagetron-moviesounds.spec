@@ -3,7 +3,7 @@ Summary(pl):	Dodatek Moviesounds do gry armagetron
 Name:		armagetron-moviesounds
 Version:	1
 Release:	1
-License:	GPL
+License:	not distributable
 Group:		X11/Applications/Games
 Source0:	http://armagetron.sourceforge.net/addons/moviesounds_fq.zip
 # Source0-md5:	3c5d04af52eb296cdeb2fba5ecbd8899
