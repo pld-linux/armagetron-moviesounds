@@ -7,6 +7,7 @@ License:	not distributable
 Group:		X11/Applications/Games
 Source0:	http://armagetron.sourceforge.net/addons/moviesounds_fq.zip
 # Source0-md5:	3c5d04af52eb296cdeb2fba5ecbd8899
+NoSource:	0
 URL:		http://armagetron.sourceforge.net/
 Requires:	armagetron
 BuildArch:	noarch
