@@ -6,7 +6,7 @@ Release:	1
 License:	not distributable
 Group:		X11/Applications/Games
 Source0:	http://armagetron.sourceforge.net/addons/moviesounds_fq.zip
-# Source0-md5:	3c5d04af52eb296cdeb2fba5ecbd8899
+# NoSource0-md5: 3c5d04af52eb296cdeb2fba5ecbd8899
 NoSource:	0
 URL:		http://armagetron.sourceforge.net/addons.html
 Requires:	armagetron
@@ -23,7 +23,7 @@ Disney's copyright to download them.
 Dodatek Moviesounds do gry armagetron.
 
 Uwaga: Te pliki nie s± objête licencj± GPL. ¦ci±gniêcie tych plików
-jest prawdopodobnie naruszeniem praw autorskich Disney'a.
+jest prawdopodobnie naruszeniem praw autorskich Disneya.
 
 %prep
 %setup -q -n moviesounds
