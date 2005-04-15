@@ -9,6 +9,7 @@ Source0:	http://armagetron.sourceforge.net/addons/moviesounds_fq.zip
 # NoSource0-md5: 3c5d04af52eb296cdeb2fba5ecbd8899
 NoSource:	0
 URL:		http://armagetron.sourceforge.net/addons.html
+BuildRequires:	unzip
 Requires:	armagetron
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
