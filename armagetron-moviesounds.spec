@@ -1,5 +1,5 @@
 Summary:	Moviesounds addon for armagetron game
-Summary(pl):	Dodatek Moviesounds do gry armagetron
+Summary(pl.UTF-8):   Dodatek Moviesounds do gry armagetron
 Name:		armagetron-moviesounds
 Version:	1
 Release:	1
@@ -20,10 +20,10 @@ Moviesounds addon for armagetron game.
 Note: These files are not under the GPL; it probably is a violation of
 Disney's copyright to download them.
 
-%description -l pl
+%description -l pl.UTF-8
 Dodatek Moviesounds do gry armagetron.
 
-Uwaga: Te pliki nie s± objête licencj± GPL. ¦ci±gniêcie tych plików
+Uwaga: Te pliki nie sÄ… objÄ™te licencjÄ… GPL. ÅšciÄ…gniÄ™cie tych plikÃ³w
 jest prawdopodobnie naruszeniem praw autorskich Disneya.
 
 %prep
