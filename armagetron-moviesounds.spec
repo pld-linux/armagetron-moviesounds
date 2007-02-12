@@ -1,5 +1,5 @@
 Summary:	Moviesounds addon for armagetron game
-Summary(pl.UTF-8):   Dodatek Moviesounds do gry armagetron
+Summary(pl.UTF-8):	Dodatek Moviesounds do gry armagetron
 Name:		armagetron-moviesounds
 Version:	1
 Release:	1
